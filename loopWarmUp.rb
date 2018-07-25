@@ -6,4 +6,4 @@ def Workout
   end
 end
 
-def Workout
+'\n' def Workout
