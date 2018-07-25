@@ -1,4 +1,4 @@
-
+x = 2
 
 def Workout
 x = 2
