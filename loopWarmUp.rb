@@ -6,4 +6,4 @@ def Workout
       puts "Hammer Curl Right"
       puts "Hammer Curl Left"
   end
-END
+end
