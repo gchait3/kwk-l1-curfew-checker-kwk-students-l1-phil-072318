@@ -6,6 +6,5 @@ def loop_WarmUp
       puts "Hammer Curl Right"
       puts "Hammer Curl Left"
   end
-  end
-    ^
+  ^
       ^
