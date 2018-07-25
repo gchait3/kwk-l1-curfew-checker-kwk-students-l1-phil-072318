@@ -5,5 +5,3 @@ def Workout
     puts "Workout Complete!"
   end
 end
-
-'\n' def Workout
