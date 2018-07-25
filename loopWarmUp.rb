@@ -5,4 +5,3 @@ def loop_WarmUp
     until x == 4
       puts "Hammer Curl Right"
   end
-end
