@@ -1,8 +1,13 @@
-x = 2
+x = 0
 
 def Workout
   loop do
-    while x <= 4
+    until x = 4
       puts "Hammer Curl Right"
+      puts "Hammer Curl Left"
+    until x = 8
+      puts "Jump Squat"
+    until x = 16
+      puts "Sit Up"
   end
 end
